@@ -22,4 +22,3 @@ try:
                 main.tg_post(lead_head[7:], second_head, link)
 except Exception as exx:
     print(exx)
-time.sleep(300)
